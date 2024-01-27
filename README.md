@@ -24,4 +24,4 @@ Para obter acesso ao projeto, o usuário deve ter o Google Chrome instalado em s
 
 ## Quem mantém e contribui com o projeto?
 
-O projeto é mantido e desenvolvido por Matheus Canel e Vinicius Rocha, estagiários de STI no Real Hospital Português. Utilizamos a linguagem de programação Python, e as principais tecnologias empregadas incluem o framework de automação web Selenium e o chromedriver para integração com o navegador Google Chrome.
+O projeto é mantido e desenvolvido por Vinicius Rocha e Matheus Canel, estagiários de STI no Real Hospital Português. Utilizamos a linguagem de programação Python, e as principais tecnologias empregadas incluem o framework de automação web Selenium e o chromedriver para integração com o navegador Google Chrome.
